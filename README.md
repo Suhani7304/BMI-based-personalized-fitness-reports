@@ -33,4 +33,3 @@ A **Flask-based web application** that calculates **BMI (Body Mass Index)** from
 - **Others**: io, datetime
 
 
-## 📂 Project Structure
